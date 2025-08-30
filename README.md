@@ -33,3 +33,6 @@ I'm currently pursuing an MS in UX at ASU and looking to strengthen my coding sk
 
 🌱 **Learning:**  
 - Coding and programming for UX projects
+
+🔗 **Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/geethu-tom/)
