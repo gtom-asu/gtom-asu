@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+! hello.jpeg
+
 # Hi there, I'm Geethu Tom 👋
 
 I'm currently pursuing an MS in UX at ASU and looking to strengthen my coding skills to complement my UX expertise. My goal is to establish a career in user experience, combining design thinking with technical know-how to create meaningful digital experiences.
