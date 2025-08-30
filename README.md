@@ -1,4 +1,5 @@
-## Hi there 👋
+
+
 
 <!--
 **gtom-asu/gtom-asu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Geethu Tom 👋
+
+I'm currently pursuing an MS in UX at ASU and looking to strengthen my coding skills to complement my UX expertise. My goal is to establish a career in user experience, combining design thinking with technical know-how to create meaningful digital experiences.
+
+💻 **Technical Background:**  
+- CS graduate with some coding experience (looking to refresh and expand my skills)
+
+🎨 **Hobbies & Interests:**  
+- Swimming 🏊‍♀️  
+- Trekking ⛰️  
+- Painting 🎨  
+- Streaming shows 📺
+
+🌱 **Learning:**  
+- Coding and programming for UX projects
