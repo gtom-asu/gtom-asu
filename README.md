@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Geethu's Profile Picture](hello.jpeg)
-
+!(hello.jpeg)
 
 # Hi there, I'm Geethu Tom 👋
 
